@@ -1,0 +1,2 @@
+# Visual-Question-Answering-on-CLEVR-dataset
+The aim of this project to use deep learning algorithms to generate answers for the visual question-answering problem given. The dataset provided was a modification of the CLEVR dataset, consisting of 15000 images and 135000 questions. The answers may be numerical, true or false, or qualities of the object. We approached this problem as dealing with a set of images and with a set of sentences/questions and combining them both.
